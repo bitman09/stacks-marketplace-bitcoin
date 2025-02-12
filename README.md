@@ -159,3 +159,5 @@ callee_filter = false
 Telegram: [@diasibt](https://t.me/@diasibt)
 
 LinkedIn: [@Dias-Ishbulatov](https://www.linkedin.com/in/dias-ishbulatov/)
+
+X: [@DiasIbt101](https://x.com/DiasIbt101)
